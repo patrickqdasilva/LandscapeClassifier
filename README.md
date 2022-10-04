@@ -5,3 +5,5 @@
 * Given novel images, the model will be able to fit the photo into each class accordingly.
 * I use an extensive amount of comments in this project to aid in my learning and to make sure I understand exactly what each step is doing.
 * The image classification model pipeline was inspired by Nicholas Renotte
+
+## Lastly, I am actively searching for feedback! Reach me at dasilva.30@buckeyemail.osu.edu
